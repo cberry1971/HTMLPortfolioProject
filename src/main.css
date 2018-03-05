@@ -1,0 +1,42 @@
+body{
+  background-color: red;
+  width: 500px;
+}
+
+.header{
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 2em;
+  padding: 1.4em;
+}
+
+.tagline{
+  text-align: center;
+  background-color: white;
+  color: grey;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 1em;
+
+}
+.skills{
+  text-align: center;
+  background-color: grey;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 1em;
+
+}
+.contact{
+  text-align: center;
+  background-color: white;
+  color: grey;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 1em;
+
+}
